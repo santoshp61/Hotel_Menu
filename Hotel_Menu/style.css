@@ -1,0 +1,15 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+  }
+.h{
+    color: aqua;
+    display: inline;
+    width: 10px;
+    padding-inline-start: 5px;
+}
+.header {
+    background-color: lightblue;
+}
